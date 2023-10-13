@@ -1,7 +1,7 @@
 {
   "name": "ltm-cli",
   "version": "0.0.3",
-  "description": "",
+  "description": "cli. W",
   "main": "index.js",
   "bin": "index.js",
   "type": "module",
@@ -15,7 +15,22 @@
     "typescript",
     "coding"
   ],
-  "author": "",
+  "funding": {
+    "type": "BuyMeACoffee",
+    "url": "https://www.buymeacoffee.com/leontm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leontm-dev/ltm-cli"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/leontm-dev/spiky/blob/add-license-1/LICENSE.md"
+    }
+  ],
+  "readme": "https://github.com/leontm-dev/ltm-cli/blob/master/readme.md",
+  "author": "LeonTM <leontm.dev@gmail.com> (https://me.leontm-official.repl.co)",
   "license": "ISC",
   "dependencies": {
     "@inquirer/prompts": "^3.2.0",
